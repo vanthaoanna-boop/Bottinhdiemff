@@ -1,0 +1,17 @@
+{
+  "name": "zalo-ff-bot",
+  "version": "1.0.0",
+  "description": "Bot Zalo tinh diem Free Fire",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0",
+    "zca-js": "^2.5.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
