@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "node-fetch": "^2.7.0",
-    "zca-js": "^2.5.0"
+    "zca-js": "latest"
   },
   "engines": {
     "node": "18.x"
