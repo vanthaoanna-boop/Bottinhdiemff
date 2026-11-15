@@ -1,12 +1,13 @@
 {
-  "name": "zalo-ff-bot",
+  "name": "bot-tinh-diem-ff",
   "version": "1.0.0",
-  "description": "Bot Zalo tinh diem Free Fire",
+  "description": "Bot Zalo tu dong tinh diem Free Fire bang Gemini",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "@google/genai": "^0.1.1",
     "express": "^4.19.2",
     "node-fetch": "^2.7.0",
     "zca-js": "latest"
@@ -15,4 +16,3 @@
     "node": "18.x"
   }
 }
-
